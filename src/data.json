@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Nightstand",
+    "image": "https://drive.google.com/file/d/1_ZjjmIq5Minb_dt0Cuhx_k5JwVvaSpJ-/view?usp=sharing",
+    "model": "data/API/ClassicNightstand_01/model.glb",
+    "code": "data/API/ClassicNightstand_01/temp.js"
+  }
+]
